@@ -1,6 +1,5 @@
 class Solution {
     public int removeElement(int[] nums, int val) {
-        Arrays.sort(nums);
         int i=0;
         int index=0;
         int j=nums.length;
