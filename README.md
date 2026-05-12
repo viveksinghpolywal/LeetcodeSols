@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0053-maximum-subarray/) | Medium |
+| [0136-single-number](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0136-single-number/) | Easy |
 | [0283-move-zeroes](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0766-toeplitz-matrix/) | Easy |
@@ -34,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0766-toeplitz-matrix](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0766-toeplitz-matrix/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
