@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0136-single-number/) | Easy |
 | [0283-move-zeroes](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0283-move-zeroes/) | Easy |
@@ -39,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0136-single-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
