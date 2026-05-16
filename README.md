@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0136-single-number/) | Easy |
 | [0283-move-zeroes](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0283-move-zeroes/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -44,4 +46,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0001-two-sum/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
