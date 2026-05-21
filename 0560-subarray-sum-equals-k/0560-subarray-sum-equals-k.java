@@ -7,7 +7,9 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             presum+=nums[i];
             int remove=presum-k;
-            count += map.getOrDefault(remove, 0);
+             if(map.containsKey(remove)){         
+                count += map.get(remove);
+            }
             map.put(presum, map.getOrDefault(presum, 0) + 1);
         }
         return count;
