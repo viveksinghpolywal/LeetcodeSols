@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0766-toeplitz-matrix/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Divide and Conquer
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0169-majority-element/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0048-rotate-image/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
