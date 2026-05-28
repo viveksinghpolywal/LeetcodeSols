@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0704-binary-search/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0766-toeplitz-matrix/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Divide and Conquer
@@ -105,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
