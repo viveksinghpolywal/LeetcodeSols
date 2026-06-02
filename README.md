@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0031-next-permutation/) | Medium |
+| [0035-search-insert-position](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0056-merge-intervals/) | Medium |
@@ -109,5 +110,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
