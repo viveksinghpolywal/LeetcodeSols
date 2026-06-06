@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0704-binary-search/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0766-toeplitz-matrix/) | Easy |
@@ -119,5 +120,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
