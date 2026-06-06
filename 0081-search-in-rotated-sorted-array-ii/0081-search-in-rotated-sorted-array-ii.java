@@ -6,7 +6,7 @@ class Solution {
         boolean output=false;
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(nums[mid]==target) {output=true; break;}
+            if(nums[mid]==target) {output=true; }
             
             if(nums[low]<nums[mid] ){
                 if(target>=nums[low] && target<=nums[mid]){
