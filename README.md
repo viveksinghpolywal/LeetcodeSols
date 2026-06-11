@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0704-binary-search/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -124,4 +125,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0162-find-peak-element/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0875-koko-eating-bananas/) | Medium |
 <!---LeetCode Topics End-->
