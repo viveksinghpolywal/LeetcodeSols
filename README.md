@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0229-majority-element-ii/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0169-majority-element/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0766-toeplitz-matrix/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Bit Manipulation
@@ -138,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0162-find-peak-element/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0704-binary-search/) | Easy |
