@@ -157,4 +157,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0410-split-array-largest-sum/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
