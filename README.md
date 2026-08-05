@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0088-merge-sorted-array/) | Easy |
