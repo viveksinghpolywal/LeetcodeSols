@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Dynamic Programming
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0088-merge-sorted-array/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0283-move-zeroes/) | Easy |
@@ -128,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0242-valid-anagram/) | Easy |
@@ -224,4 +228,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
