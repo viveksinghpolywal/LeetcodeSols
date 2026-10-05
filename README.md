@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0075-sort-colors/) | Medium |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## String
