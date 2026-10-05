@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0189-rotate-array/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0283-move-zeroes/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -247,4 +251,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
