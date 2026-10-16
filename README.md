@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0118-pascals-triangle/) | Easy |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0136-single-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -264,4 +266,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0739-daily-temperatures/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
