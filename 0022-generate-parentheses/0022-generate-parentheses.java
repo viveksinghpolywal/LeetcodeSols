@@ -1,32 +1,34 @@
-import java.util.List;
-import java.util.ArrayList;
+class Solution {
+    public List<String> generateParenthesis(int n) {
+        List<String> result = new ArrayList<>();
+        StringBuilder current = new StringBuilder();
 
-public class Solution {
+        backtrack(current, 0, 0, n, result);
 
-    // A helper method that adds parentheses to a list of strings
-    private void addParenthesis(List<String> list, String s, int left, int right) {
-        // If there are no more parentheses left to add, add the string to the list
-        if (left == 0 && right == 0) {
-            list.add(s);
-            return;
-        }
-        // If there are more left parentheses than right, we can add a right parenthesis
-        if (left < right) {
-            addParenthesis(list, s + ")", left, right - 1);
-        }
-        // If there are more left parentheses available, we can add a left parenthesis
-        if (left > 0) {
-            addParenthesis(list, s + "(", left - 1, right);
-        }
+        return result;
     }
 
-    // The main method that generates all combinations of well-formed parentheses
-    public List<String> generateParenthesis(int n) {
-        // Initialize an empty list of strings
-        List<String> list = new ArrayList<>();
-        // Call the helper method with an empty string and n pairs of parentheses
-        addParenthesis(list, "", n, n);
-        // Return the list of strings
-        return list;
+    private void backtrack(StringBuilder current,int open,int close,int n, List<String> result){
+        if (current.length() == 2 * n) {
+            result.add(current.toString());
+            return;
+        }
+        if (open < n) {
+            current.append('(');
+
+            backtrack(current, open + 1, close, n, result);
+
+            // Undo the opening bracket
+            current.deleteCharAt(current.length() - 1);
+        }
+
+        if (close < open) {
+            current.append(')');
+
+            backtrack(current, open, close + 1, n, result);
+
+            // Undo the closing bracket
+            current.deleteCharAt(current.length() - 1);
+        }
     }
 }
