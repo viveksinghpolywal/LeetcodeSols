@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0118-pascals-triangle/) | Easy |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0014-longest-common-prefix/) | Easy |
+| [0022-generate-parentheses](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0022-generate-parentheses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0242-valid-anagram/) | Easy |
@@ -269,5 +271,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0078-subsets/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
