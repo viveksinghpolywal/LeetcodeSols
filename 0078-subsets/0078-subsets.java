@@ -15,7 +15,9 @@ class Solution {
 
         for (int i = index; i < nums.length; i++) {
             current.add(nums[i]);
-
+            if (i > index && nums[i] == nums[i-1]) {
+                continue;
+            }
             backtrack(nums, i + 1, current, result);
 
             current.remove(current.size() - 1);
