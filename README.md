@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0118-pascals-triangle/) | Easy |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0205-isomorphic-strings/) | Easy |
@@ -282,9 +285,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0022-generate-parentheses/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
