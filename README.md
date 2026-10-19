@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Linked List
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0022-generate-parentheses/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0242-valid-anagram/) | Easy |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0078-subsets/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
