@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0048-rotate-image/) | Medium |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0079-word-search/) | Medium |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0037-sudoku-solver/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -282,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0078-subsets/) | Medium |
@@ -295,4 +299,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0079-word-search/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
