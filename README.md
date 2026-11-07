@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Divide and Conquer
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
