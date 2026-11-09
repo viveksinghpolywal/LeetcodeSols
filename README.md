@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0055-jump-game/) | Medium |
+| [0402-remove-k-digits](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## String
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0402-remove-k-digits](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0402-remove-k-digits/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0739-daily-temperatures/) | Medium |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0739-daily-temperatures/) | Medium |
