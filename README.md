@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0518-coin-change-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0518-coin-change-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0704-binary-search/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0518-coin-change-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Linked List
@@ -358,4 +360,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0239-sliding-window-maximum/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0518-coin-change-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0518-coin-change-ii/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0518-coin-change-ii](https://github.com/viveksinghpolywal/LeetcodeSols/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
